@@ -1,11 +1,9 @@
-# Jala-Tani
-JalaTani adalah platform untuk belajar dan berbagi pengetahuan pertanian. Cerita Petani Milenial, tips dalam bertani, informasi jenis tanaman, dan alat pertanian untuk membantu petani meningkatkan hasil panen.
 <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JalaTani - Website Pertanian</title>
+    <title>Jala Tani - Website Pertanian</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -74,26 +72,26 @@ JalaTani adalah platform untuk belajar dan berbagi pengetahuan pertanian. Cerita
 </head>
 <body>
     <header>
-        <h1>Selamat Datang di JalaTani</h1>
-        <p>Website Cerita Petani Milenial Bertani Modern</p>
+        <h1>Selamat Datang di Jala Tani</h1>
+        <p>Website Informasi Pertanian untuk Petani Modern</p>
     </header>
     
     <nav>
-        <a href="#Cerita Kami">Cerita Kami</a>
+        <a href="#beranda">Beranda</a>
         <a href="#tentang">Tentang</a>
         <a href="#tips">Tips Pertanian</a>
         <a href="#kontak">Kontak</a>
     </nav>
     
-    <div class="container" id="Cerita Kami">
-        <h2>Cerita Kami</h2>
-        <p>JalaTani adalah platform untuk belajar dan berbagi pengetahuan pertanian. Cerita Petani Milenial, tips dalam bertani, informasi jenis tanaman, dan alat pertanian untuk membantu petani meningkatkan hasil panen.</p>
+    <div class="container" id="beranda">
+        <h2>Beranda</h2>
+        <p>Jala Tani adalah platform untuk belajar dan berbagi pengetahuan pertanian. Kami menyediakan tips, informasi jenis tanaman, dan alat pertanian untuk membantu petani meningkatkan hasil panen.</p>
         <img src="https://via.placeholder.com/800x400/4CAF50/ffffff?text=Pertanian+Hijau" alt="Ilustrasi pertanian">
     </div>
     
     <div class="container" id="tentang">
-        <h2>Tentang JalaTani</h2>
-        <p>JalaTani didirikan untuk mendukung petani Indonesia dengan informasi akurat dan praktis. Kami fokus pada pertanian berkelanjutan, mulai dari menanam padi.</p>
+        <h2>Tentang Jala Tani</h2>
+        <p>Jala Tani didirikan untuk mendukung petani Indonesia dengan informasi akurat dan praktis. Kami fokus pada pertanian berkelanjutan, mulai dari menanam padi hingga hidroponik.</p>
         <ul>
             <li>Visi: Meningkatkan produktivitas pertanian.</li>
             <li>Misi: Edukasi dan inovasi untuk petani.</li>
@@ -120,9 +118,9 @@ JalaTani adalah platform untuk belajar dan berbagi pengetahuan pertanian. Cerita
     
     <div class="container" id="kontak">
         <h2>Kontak Kami</h2>
-        <p>Email: jalatani2025@gmail.com</p>
-        <p>Telepon: 0882003268507</p>
-        <p>Alamat: Perum Griya Medoho Asri Nomor 105 Kelurahan Kalicari Kec. Pedurungan, Kota Semarang</p>
+        <p>Email: info@jalatani.com</p>
+        <p>Telepon: 0812-3456-7890</p>
+        <p>Alamat: Jalan Pertanian No. 123, Jakarta</p>
         <form>
             <label for="nama">Nama:</label><br>
             <input type="text" id="nama" name="nama"><br><br>
@@ -133,7 +131,7 @@ JalaTani adalah platform untuk belajar dan berbagi pengetahuan pertanian. Cerita
     </div>
     
     <footer>
-        <p>&copy; 2023 JalaTani. Semua Hak Dilindungi.</p>
+        <p>&copy; 2023 Jala Tani. Semua Hak Dilindungi.</p>
     </footer>
     
     <script>
